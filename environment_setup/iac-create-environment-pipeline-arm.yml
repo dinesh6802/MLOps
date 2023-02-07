@@ -2,7 +2,7 @@ pr: none
 trigger: none
 
 variables:
-- group: mlops-play4
+- group: mlopsvg-5
 
 stages:
 - stage: 'Dev'
